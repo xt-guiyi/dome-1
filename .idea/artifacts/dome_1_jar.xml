@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="dome-1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dome_1_jar</output-path>
+    <root id="archive" name="dome-1.jar">
+      <element id="module-output" name="dome-1" />
+      <element id="module-output" name="dome-test" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Downloads/edge/commons-logging-1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
